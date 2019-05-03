@@ -19,6 +19,7 @@ a {text-decoration: none; }
 </style>
 <p class="new">This text is in bold and italics</p>
 <p> the body is in white and the color of text is black in sans-serif font. hyperlinks such as <a href="index.html">Home</a> are not underlined.</p></body></html>
+format should apply to links
 
 2.
 body { background-color:#FFF8DC;
